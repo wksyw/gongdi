@@ -8,7 +8,7 @@ create table t_user
 (
   id                        int              not null				AUTO_INCREMENT,         -- 编号
 											 
-  username                  varchar(20)      not null,                                      -- 手机号    
+  username                  varchar(20)      not null,                                      -- 用户名
   
   type		        		tinyint      	 not null,                                      -- 用户类型		
  
